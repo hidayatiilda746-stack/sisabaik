@@ -1,19 +1,27 @@
-# sisabaik
-sisa baik adalah proyek berkembang pada matakuliah pengembangan web. aplikasi ini di rancang untuk membantu penyedia memulihkan nilai stok makanan berlebih melalui penjualan dengan harga khusus atau penyaluran, sekaligus membantu masyarakat memperoleh makanan yang lebih terjangkau dan mengurangi limbah pangan.
+# SisaBaik
 
-## capaian chapter 2
--membuat halaman informasi sisabaik dengan semantic html 
--membuat formulir pendaftaran penyedia yang aksesibel.
--membuat formulir penawaran makanan berlebih yang aksesibel
--mengelola perubahan kode dengan git dan github
+SisaBaik adalah proyek berkembang pada mata kuliah Pengembangan Web. Aplikasi ini dirancang untuk membantu penyedia memulihkan nilai stok makanan berlebih melalui penjualan dengan harga khusus atau penyaluran, sekaligus membantu masyarakat memperoleh makanan yang lebih terjangkau dan mengurangi limbah pangan.
 
-## halaman
--'index.html':halaman informasi sisabaik.
--'daftar-penyedia.html':formulir pendaftaran penyedia
--'tawarkan-makanan.html':formulir penawaran makanan berlebih.
+## Capaian Chapter 3
 
-## menjalankan proyek
-buka folder proyek di visual studio code, lalu tampilkan 'index.html' menggunakan live preview atau browser. pada tahap ini, formulir hanya merupakan prototipe html: data belum di simpan ke server atau basis data.
+- Mempertahankan semantic HTML dan formulir aksesibel dari Chapter 2.
+- Menerapkan CSS cascade, box model, dan custom properties.
+- Menggunakan Flexbox untuk navigasi dan kelompok tombol.
+- Menggunakan Grid untuk kartu penawaran dan bagian halaman.
+- Membangun layout mobile-first dengan media queries.
+- Memeriksa kontras, fokus keyboard, reflow, dan konsistensi visual.
 
-## integritas akademik
-pengerjaan proyek berkembang mengikuti kebijakan matakuliah. AI generatif tidak di perkenankan pada tahap ini. mahasiswa wajib mampu menjelaskan setiap elemen dan atribut yang di gunakan
+## Halaman
+
+- `index.html`: halaman informasi SisaBaik.
+- `daftar-penyedia.html`: formulir pendaftaran penyedia.
+- `tawarkan-makanan.html`: formulir penawaran makanan berlebih.
+- `styles.css`: sistem visual dan layout responsif untuk seluruh halaman.
+
+## Menjalankan proyek
+
+Buka folder proyek di Visual Studio Code, lalu tampilkan `index.html` menggunakan Live Preview atau browser. Pada tahap ini, formulir hanya merupakan prototipe HTML: data belum disimpan ke server atau basis data.
+
+## Integritas akademik
+
+Pengerjaan proyek berkembang mengikuti kebijakan mata kuliah. AI generatif tidak diperkenankan pada tahap ini. Mahasiswa wajib mampu menjelaskan setiap elemen dan atribut yang digunakan.
